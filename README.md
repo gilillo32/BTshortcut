@@ -3,7 +3,7 @@ Script for turning on and off bluetooth with keyboard in Windows 10
 ## Installation
 You must have [AutoHotKey](https://www.autohotkey.com/) installed
 Once you installed it, download all 3 files in this repository.
-Use the package manager to install pyautogui 
+Use the package manager to install pyautogui: 
 ```bash
 pip3 install pyautogui
 ```
