@@ -12,4 +12,9 @@ To start running this script, your must doble click on btFINAL.ahk.
 Three files must be in the same directory.
 If yout want to run this everytime the computer starts, create a link to the file and move it to the folder that appears when running 'shell:startup' (Win + R).
 The script is written to work everytime Shift + F1 is pressed. To chage this, you must change btFINAL.ahk
+## Changes you may need
+In line 5 of bt.py:
+  You must write the absolute directory to AutoHotkey.exe
+btFinal.py:
+  You must write the absolute path to python.exe in your computer and then, separated by space, the path to bt.py
 
