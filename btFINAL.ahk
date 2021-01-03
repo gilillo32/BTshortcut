@@ -1,0 +1,1 @@
++F1:: Run E:\Program_Files\Python38\python.exe C:\Users\inigo\Desktop\bt.py
